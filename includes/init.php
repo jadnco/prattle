@@ -15,7 +15,7 @@ define("INC_PATH", ROOT_PATH . "/includes/");
 define("BASE_URL", "http://localhost/prattle/public");
 
 // Add the home url; eg. http://example.com
-define("HOME", "http://localhost/showcase");
+define("HOME", "http://localhost/prattle");
 
 // Timezone
 date_default_timezone_set("America/Winnipeg");
