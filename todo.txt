@@ -1,0 +1,3 @@
+1) 2-way message encryption using a token key.
+2) Storing messages locally with cookies.
+3) jQuery AJAX long polling
