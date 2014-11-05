@@ -1,6 +1,7 @@
 *.log
 *.json
 */error_log
+.DS_Store
 
 public/assets/images/*
 public/info.php
