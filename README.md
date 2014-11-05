@@ -18,4 +18,4 @@ define("HOME", "http://localhost/prattle");
 
 All user and conversation data is stored within `JSON` files, which are automatically created. These files are given a `CHMOD` flag of `0600` for security measures.
 
-Check out the [Dribbble](https://dribbble.com/jaden/projects/228211-Prattle) project if you want to see some screenshots of *Prattle* or [jadn.co](http://jadn.co) for more information.
+Check out the [Dribbble](https://dribbble.com/jaden/projects/228211-Prattle) project if you want to see some screenshots of *Prattle* or [jadn.co](http://jadn.co/prattle) for more information.
